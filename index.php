@@ -1,0 +1,84 @@
+<!--HTML-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>PRO OP</title>
+    <link rel="icon" href="https://cdn.discordapp.com/attachments/798519807455657985/834793069285998673/QK_1619100561425.png" />
+    <link href="style.css" rel="stylesheet" type="text/css">
+   <meta content="width=device-width, initial-scale=1' name='viewport"/>
+<meta property="og:type" content="website">
+<meta property="og:title" content=PRO-OP-DASHBOARD/>
+<meta property="og:description" content="PRO OP BOT DASHBOARD COMMANDS" />
+<meta property="og:url" content="https://discord.gg/BGgKbDCysk"/>
+<script data-ad-client="ca-pub-2073054276554999" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script
+  </head>
+  <body>
+<div class='spinner-wrapper'>
+    <div class="spinner"></div>
+</div>
+</div>
+    <a href='https://discord.com/oauth2/authorize?client_id=808273298235457607&scope=bot&permissions=2147483647.' target="_blank">
+    <button class="btn">Invite bot </button>
+    </a>
+    <a href'https://discord.gg/BGgKbDCysk' target="_blank">
+    <button class="btn">Support Server</button>
+    </a>
+      <a href='https://discord.ly/slicy-btw-op' target="_blank">
+    <button class="btn">upvote bot</button>
+    </a>
+    
+    
+<!--lINKING PAGES-->
+
+
+
+<!--MAIN PAGE DESIGNE-->
+<h1>
+    PRO OP || Discord Bot
+    </h1>
+<img src="https://cdn.discordapp.com/attachments/798519807455657985/834793069285998673/QK_1619100561425.png" alt="Icon">
+<p>● A Multi-Purpose Discord Bot that you Much Have in your Server <br>● 100+ Commands <br >● Covering up all Features like up all Features like Moderation, Misc, Fun, Games, Utility, Economy, youtube notifs etc...<br>
+● Premiuim Features Soon </p>
+
+<!--<p class="p1">Tags : Utility | Misc | Fun | Dynamics | Economy | Moderation </p>-->
+<div id="particles.js"></div>
+ <div>
+          <nav class="navbar">
+            <div class="hamburger-menu">
+              <div class="line line-1"></div>
+              <div class="line line-2"></div>
+              <div class="line line-3"></div>
+            </div>
+    
+            <ul class="nav-list">
+              <li class="nav-item">
+                  <a href="/commands.php" class="nav-link">🤖 | Commands</a>
+                <li class="nav-item">
+                <a href="/Contact-Us.php" class="nav-link">❓ | Contact US</a>
+              </li>
+              <li class="nav-item"> 
+                  <a href="/report.php" class="nav-link">⚠️ | Report</a>
+                </li>
+                <li class="nav-item">
+                  <a href="/Terms.php" class="nav-link">🔒 | Privacy </a>
+                </li>
+            </ul>
+          </nav>
+        </div>
+
+ <script src="script.js"></script>
+<script>
+    let spinnerWrapper = document.querySelector('.spinner-wrapper');
+
+    window.addEventListener('load', function () {
+        // spinnerWrapper.style.display = 'none';
+        spinnerWrapper.parentElement.removeChild(spinnerWrapper);
+    });
+</script>
+<script> setTimeout(function () {
+    location.reload()
+}, 1000 * 60 * 10); </script>
+  </body>
+</html>
